@@ -93,3 +93,20 @@
 
 官网链接：https://github.com/google/unrestricted-adversarial-examples
 
+16、AI Challenger 全球AI挑战赛2018
+
+介绍：
+
+官网链接：https://challenger.ai/
+
+17、Open MIC
+
+介绍：
+
+官网链接：http://users.cecs.anu.edu.au/~koniusz/openmic-accv18/
+
+18、The SpaceNet Challenge Round 4
+
+介绍：
+
+官网链接：https://www.topcoder.com/spacenet
